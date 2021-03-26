@@ -3,6 +3,14 @@
 <br/> <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maranimoataz&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
   <strong> :wrench: Technologies and Tools</strong> </br> <br />
 ![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
