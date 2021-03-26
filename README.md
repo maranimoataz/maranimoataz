@@ -1,7 +1,7 @@
 ### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maranimoataz&show_icons=true&theme=merko)
 <br/> <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maranimoataz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maranimoataz&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <strong> :wrench: Technologies and Tools</strong> </br> <br />
