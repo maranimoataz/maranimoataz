@@ -1,6 +1,6 @@
 ### 
 
-  Technologies and Tools
+  Technologies and Tools </br>
 ![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
