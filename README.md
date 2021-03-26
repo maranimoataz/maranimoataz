@@ -1,6 +1,6 @@
 ### 
 
-  <strong><h2> :wrench: Technologies and Tools </h2></strong></br>
+  <strong><h2> :wrench: Technologies and Tools </h2></strong>
 ![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<CODE>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
