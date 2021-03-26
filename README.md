@@ -1,5 +1,5 @@
 ### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maranimoataz&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maranimoataz&show_icons=true&theme=merko)
 <br/> <br />
   <strong> :wrench: Technologies and Tools</strong> </br> <br />
 ![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
